@@ -6,5 +6,5 @@ I’m still figuring out what I enjoy the most, but I’m especially curious abo
 - 🔭 I love **learning new things** and experimenting.
 - 🌱 I’m currently learning **Python** and **SQL**.
 - 🎨 I enjoy mixing **technology** with **creativity** — building, designing, and exploring new concepts.
-
+. 👯 I have a lot of hobbies, but I enjoy most photography and watching movies.
 
